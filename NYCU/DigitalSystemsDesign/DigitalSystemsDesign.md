@@ -39,6 +39,16 @@
 19. Testing a Verilog Model (Testbench)
 20. A Few Things to Remember
 
+## Ch3. Introduction to Programmable Logic Devices
+1. Brief Overview of Programmable Logic Devices (PLDs) 
+    - Read-only memories (ROMs)
+    - Programmable Logic Arrays (PLAs)
+    - Programmable Array Logic (PAL)
+    - Generic Array Logic (GAL)
+2. Simple Programmable Logic Devices (SPLDs)
+3. Complex Programmable Logic Devices (CPLDs)
+4. Field-Programmable Gate Arrays (FPGAs)
+
 ## Ch4. Design Examples
 1. [BCD to 7-Segment Display Decoder (comb)][4.1]
 2. [A BCD Adder (comb)][4.2]
