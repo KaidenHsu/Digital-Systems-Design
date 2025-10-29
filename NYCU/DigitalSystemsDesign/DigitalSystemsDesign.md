@@ -26,7 +26,7 @@
 6. Procedural Assignments
 7. Modeling FFs Using Always Blocks
 8. Always Blocks Using Event Control Statements
-9. Delays in Verilog 
+9. [Delays in Verilog][2.9]
 10. Compilation, Simulation, and Synthesis of Verilog Code
 11. Verilog Datatypes and Operators
 12. Simple Synthesis Examples
@@ -37,17 +37,24 @@
 17. Arrays
 18. Loops in Verilog
 19. Testing a Verilog Model (Testbench)
-20. A Few Things to Remember
+20. [A Few Things to Remember][2.20]
+
+[2.9]: Ch2/2.09Delays.pdf
+[2.20]: Ch2/2.20VerilogTips.pdf
 
 ## Ch3. Introduction to Programmable Logic Devices
-1. Brief Overview of Programmable Logic Devices (PLDs) 
+1. [Brief Overview of Programmable Logic Devices (PLDs)][3.1]
     - Read-only memories (ROMs)
     - Programmable Logic Arrays (PLAs)
     - Programmable Array Logic (PAL)
     - Generic Array Logic (GAL)
-2. Simple Programmable Logic Devices (SPLDs)
-3. Complex Programmable Logic Devices (CPLDs)
+2. [Simple Programmable Logic Devices (SPLDs)][3.2]
+3. [Complex Programmable Logic Devices (CPLDs)][3.3]
 4. Field-Programmable Gate Arrays (FPGAs)
+
+[3.1]: Ch3/3.01PLDsOverview.pdf
+[3.2]: Ch3/3.02SPLDs.pdf
+[3.3]: Ch3/3.03CPLDs.pdf
 
 ## Ch4. Design Examples
 1. [BCD to 7-Segment Display Decoder (comb)][4.1]
