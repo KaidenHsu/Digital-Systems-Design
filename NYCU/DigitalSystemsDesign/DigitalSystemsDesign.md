@@ -50,11 +50,12 @@
     - Generic Array Logic (GAL)
 2. [Simple Programmable Logic Devices (SPLDs)][3.2]
 3. [Complex Programmable Logic Devices (CPLDs)][3.3]
-4. Field-Programmable Gate Arrays (FPGAs)
+4. [Field-Programmable Gate Arrays (FPGAs)][3.4]
 
 [3.1]: Ch3/3.01PLDsOverview.pdf
 [3.2]: Ch3/3.02SPLDs.pdf
 [3.3]: Ch3/3.03CPLDs.pdf
+[3.4]: Ch3/3.04FPGAs.pdf
 
 ## Ch4. Design Examples
 1. [BCD to 7-Segment Display Decoder (comb)][4.1]
