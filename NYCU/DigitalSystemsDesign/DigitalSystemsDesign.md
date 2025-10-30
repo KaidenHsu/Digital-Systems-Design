@@ -61,7 +61,7 @@
 1. [BCD to 7-Segment Display Decoder (comb)][4.1]
 2. [A BCD Adder (comb)][4.2]
 3. [32-Bit Adders (comb, seq)][4.3]
-4. Traffic Light Controller (seq)
+4. [Traffic Light Controller (seq)][4.4]
 5. State Graphs for Control Circuits
 6. Scoreboard and Controller (seq)
 7. Synchronization and Debouncing (seq)
@@ -74,3 +74,4 @@
 [4.1]: Ch4/01.BCDTo7Seg/
 [4.2]: Ch4/02.BCDAdder/
 [4.3]: Ch4/03.32BitCLA/
+[4.4]: Ch4/04.TrafficLightController/
