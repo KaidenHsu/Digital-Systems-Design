@@ -1,0 +1,241 @@
+$date
+	Fri Oct 31 21:47:27 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module t_TrafficLightController $end
+$var wire 1 ! Yb $end
+$var wire 1 " Ya $end
+$var wire 1 # Rb $end
+$var wire 1 $ Ra $end
+$var wire 1 % Gb $end
+$var wire 1 & Ga $end
+$var reg 1 ' Sa $end
+$var reg 1 ( Sb $end
+$var reg 1 ) clk $end
+$var reg 1 * rst_n $end
+$scope module uut $end
+$var wire 1 ' Sa_i $end
+$var wire 1 ( Sb_i $end
+$var wire 1 ) clk $end
+$var wire 1 * rst_n $end
+$var parameter 32 + S0 $end
+$var parameter 32 , S1 $end
+$var parameter 32 - S10 $end
+$var parameter 32 . S11 $end
+$var parameter 32 / S12 $end
+$var parameter 32 0 S13 $end
+$var parameter 32 1 S14 $end
+$var parameter 32 2 S15 $end
+$var parameter 32 3 S2 $end
+$var parameter 32 4 S3 $end
+$var parameter 32 5 S4 $end
+$var parameter 32 6 S5 $end
+$var parameter 32 7 S6 $end
+$var parameter 32 8 S7 $end
+$var parameter 32 9 S8 $end
+$var parameter 32 : S9 $end
+$var reg 1 & Ga_o $end
+$var reg 1 % Gb_o $end
+$var reg 1 $ Ra_o $end
+$var reg 1 # Rb_o $end
+$var reg 1 " Ya_o $end
+$var reg 1 ! Yb_o $end
+$var reg 4 ; next_state [3:0] $end
+$var reg 4 < state [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1001 :
+b1000 9
+b111 8
+b110 7
+b101 6
+b100 5
+b11 4
+b10 3
+b1111 2
+b1110 1
+b1101 0
+b1100 /
+b1011 .
+b1010 -
+b1 ,
+b0 +
+$end
+#0
+$dumpvars
+bx <
+bx ;
+1*
+0)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#5
+1&
+0"
+0$
+0%
+0!
+1#
+b1 ;
+b0 <
+0*
+1)
+#10
+0)
+#15
+1)
+#20
+1&
+1#
+b1 ;
+0(
+0'
+1*
+0)
+#25
+b10 ;
+1&
+1#
+b1 <
+1)
+#30
+0)
+#35
+b11 ;
+1&
+1#
+b10 <
+1)
+#40
+0)
+#45
+b100 ;
+1&
+1#
+b11 <
+1)
+#50
+0)
+#55
+b101 ;
+1&
+1#
+b100 <
+1)
+#60
+0)
+#65
+1&
+1#
+b101 <
+1)
+#70
+0)
+#75
+1)
+#80
+0)
+#85
+1)
+#90
+0)
+#95
+1)
+#100
+b110 ;
+1&
+1#
+0)
+1(
+#105
+1"
+b111 ;
+0&
+1#
+b110 <
+1)
+#110
+0)
+#115
+1%
+1$
+b1000 ;
+0"
+0#
+b111 <
+1)
+#120
+0)
+#125
+b1001 ;
+1$
+1%
+b1000 <
+1)
+#130
+0)
+#135
+b1010 ;
+1$
+1%
+b1001 <
+1)
+#140
+0)
+#145
+b1011 ;
+1$
+1%
+b1010 <
+1)
+#150
+0)
+#155
+1!
+1$
+0%
+b1011 <
+1)
+#160
+0)
+#165
+1)
+#170
+b1100 ;
+1$
+1!
+0)
+1'
+#175
+b0 ;
+1$
+1!
+b1100 <
+1)
+#180
+0)
+#185
+1#
+1&
+b1 ;
+0$
+0!
+b0 <
+1)
+#190
+0)

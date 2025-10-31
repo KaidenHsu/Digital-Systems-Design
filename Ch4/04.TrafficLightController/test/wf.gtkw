@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Oct 31 14:10:33 2025
+[*]
+[dumpfile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/04.TrafficLightController/test/TrafficLightController.vcd"
+[dumpfile_mtime] "Fri Oct 31 13:47:27 2025"
+[dumpfile_size] 2032
+[savefile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/04.TrafficLightController/test/wf.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-4.703616 115 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] t_TrafficLightController.
+[sst_width] 278
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 280
+@28
+t_TrafficLightController.uut.rst_n
+@29
+t_TrafficLightController.uut.clk
+@200
+-
+@28
+t_TrafficLightController.uut.Sa_i
+t_TrafficLightController.uut.Sb_i
+@200
+-
+@28
+t_TrafficLightController.uut.Ga_o
+t_TrafficLightController.uut.Ya_o
+t_TrafficLightController.uut.Ra_o
+@200
+-
+@28
+t_TrafficLightController.uut.Gb_o
+t_TrafficLightController.uut.Yb_o
+t_TrafficLightController.uut.Rb_o
+@200
+-
+@24
+t_TrafficLightController.uut.state[3:0]
+t_TrafficLightController.uut.next_state[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
