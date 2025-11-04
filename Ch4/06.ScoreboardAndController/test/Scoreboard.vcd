@@ -1,0 +1,289 @@
+$date
+	Tue Nov  4 18:10:52 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module t_Scoreboard $end
+$var wire 7 ! units_7seg [7:1] $end
+$var wire 7 " tens_7seg [7:1] $end
+$var reg 1 # clk $end
+$var reg 1 $ dec $end
+$var reg 1 % erase $end
+$var reg 1 & inc $end
+$var reg 1 ' rst $end
+$scope module uut $end
+$var wire 1 # clk $end
+$var wire 1 $ dec_i $end
+$var wire 1 % erase_i $end
+$var wire 1 & inc_i $end
+$var wire 1 ' rst $end
+$var wire 7 ( units_7seg_o [7:1] $end
+$var wire 4 ) units [3:0] $end
+$var wire 7 * tens_7seg_o [7:1] $end
+$var wire 4 + tens [3:0] $end
+$var wire 1 , inc $end
+$var wire 1 - erase $end
+$var wire 1 . dec $end
+$scope module u1 $end
+$var wire 1 # clk $end
+$var wire 1 , inc_i $end
+$var wire 1 - erase_i $end
+$var wire 1 . dec_i $end
+$var reg 4 / tens [3:0] $end
+$var reg 4 0 tens_o [3:0] $end
+$var reg 4 1 units [3:0] $end
+$var reg 4 2 units_o [3:0] $end
+$upscope $end
+$scope module u2 $end
+$var wire 4 3 bcd [3:0] $end
+$var reg 7 4 seven [7:1] $end
+$upscope $end
+$scope module u3 $end
+$var wire 4 5 bcd [3:0] $end
+$var reg 7 6 seven [7:1] $end
+$upscope $end
+$scope module u4 $end
+$var wire 1 # clk $end
+$var wire 1 $ dec_i $end
+$var wire 1 % erase_i $end
+$var wire 1 & inc_i $end
+$var wire 1 ' rst $end
+$var parameter 32 7 CLR $end
+$var parameter 32 8 CNT $end
+$var reg 1 . dec_o $end
+$var reg 1 - erase_o $end
+$var reg 3 9 erasecnt [2:0] $end
+$var reg 1 , inc_o $end
+$var reg 1 : next_state $end
+$var reg 1 ; state $end
+$upscope $end
+$upscope $end
+$scope task delay $end
+$var reg 11 < cycles [10:0] $end
+$upscope $end
+$scope task erase_scoreboard $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1 8
+b0 7
+$end
+#0
+$dumpvars
+bx <
+x;
+x:
+bx 9
+bx 6
+bx 5
+bx 4
+bx 3
+bx 2
+bx 1
+bx 0
+bx /
+x.
+x-
+x,
+bx +
+bx *
+bx )
+bx (
+0'
+0&
+0%
+0$
+0#
+bx "
+bx !
+$end
+#2
+1'
+#5
+1:
+0;
+1#
+#7
+b10 <
+0'
+#10
+0#
+#15
+1;
+0.
+0,
+0-
+b0 9
+1#
+#20
+0#
+#25
+1#
+#27
+b110 <
+1%
+#30
+0#
+#35
+b1 9
+1#
+#40
+0#
+#45
+b10 9
+1#
+#50
+0#
+#55
+b11 9
+1#
+#60
+0#
+#65
+0:
+b100 9
+1#
+#70
+0#
+#75
+0;
+1-
+b0 9
+1#
+#80
+0#
+#85
+b111111 !
+b111111 (
+b111111 6
+b111111 "
+b111111 *
+b111111 4
+b0 )
+b0 2
+b0 5
+b0 1
+b0 +
+b0 0
+b0 3
+b0 /
+0-
+1#
+#87
+1:
+b10 <
+0%
+#90
+0#
+#95
+1;
+1#
+#100
+0#
+#105
+1#
+#107
+1&
+#110
+0#
+#115
+1,
+1#
+#117
+0&
+#120
+0#
+#125
+b110 !
+b110 (
+b110 6
+b1 )
+b1 2
+b1 5
+b1 1
+0,
+1#
+#130
+0#
+#135
+1#
+#137
+1$
+#140
+0#
+#145
+1.
+1#
+#147
+0$
+#150
+0#
+#155
+b111111 !
+b111111 (
+b111111 6
+0.
+b0 )
+b0 2
+b0 5
+b0 1
+1#
+#160
+0#
+#165
+1#
+#167
+b110 <
+1%
+#170
+0#
+#175
+b1 9
+1#
+#180
+0#
+#185
+b10 9
+1#
+#190
+0#
+#195
+b11 9
+1#
+#200
+0#
+#205
+0:
+b100 9
+1#
+#210
+0#
+#215
+0;
+1-
+b0 9
+1#
+#220
+0#
+#225
+0-
+1#
+#227
+1:
+b10 <
+0%
+#230
+0#
+#235
+1;
+1#
+#240
+0#
+#245
+1#

@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Nov  4 09:48:15 2025
+[*]
+[dumpfile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/06.ScoreboardAndController/test/Scoreboard.vcd"
+[dumpfile_mtime] "Tue Nov  4 09:36:58 2025"
+[dumpfile_size] 2292
+[savefile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/06.ScoreboardAndController/test/controller.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-4.579065 76 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] t_Scoreboard.
+[treeopen] t_Scoreboard.uut.
+[sst_width] 278
+[signals_width] 145
+[sst_expanded] 1
+[sst_vpaned_height] 283
+@28
+t_Scoreboard.uut.u4.clk
+t_Scoreboard.uut.u4.rst
+@200
+-
+@28
+t_Scoreboard.uut.u4.inc_i
+t_Scoreboard.uut.u4.dec_i
+t_Scoreboard.uut.u4.erase_i
+@200
+-
+@25
+t_Scoreboard.uut.u4.erasecnt[2:0]
+@200
+-
+@28
+t_Scoreboard.uut.u4.inc_o
+t_Scoreboard.uut.u4.dec_o
+t_Scoreboard.uut.u4.erase_o
+@200
+-
+@28
+t_Scoreboard.uut.u4.state
+t_Scoreboard.uut.u4.next_state
+[pattern_trace] 1
+[pattern_trace] 0
