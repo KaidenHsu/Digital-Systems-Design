@@ -62,8 +62,8 @@
 2. [A BCD Adder (comb)][4.2]
 3. [32-Bit Adders (comb, seq)][4.3]
 4. [Traffic Light Controller (seq)][4.4]
-5. State Graphs for Control Circuits
-6. Scoreboard and Controller (seq)
+5. [State Graphs for Control Circuits][4.5]
+6. [Scoreboard and Controller (seq)][4.6]
 7. Synchronization and Debouncing (seq)
 8. A Shift-and-Add Multiplier (seq)
 9. Array Multiplier (comb)
@@ -75,3 +75,5 @@
 [4.2]: Ch4/02.BCDAdder/
 [4.3]: Ch4/03.32BitCLA/
 [4.4]: Ch4/04.TrafficLightController/
+[4.5]: Ch4/05.StateGraphsForControlCircuits/
+[4.6]: Ch4/06.ScoreboardAndController/
