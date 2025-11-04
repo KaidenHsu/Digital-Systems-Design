@@ -64,7 +64,7 @@
 4. [Traffic Light Controller (seq)][4.4]
 5. [State Graphs for Control Circuits][4.5]
 6. [Scoreboard and Controller (seq)][4.6]
-7. Synchronization and Debouncing (seq)
+7. [Synchronization and Debouncing (seq)][4.7]
 8. A Shift-and-Add Multiplier (seq)
 9. Array Multiplier (comb)
 10. A Signed Integer/Fraction Multiplier (seq)
@@ -77,3 +77,4 @@
 [4.4]: Ch4/04.TrafficLightController/
 [4.5]: Ch4/05.StateGraphsForControlCircuits/
 [4.6]: Ch4/06.ScoreboardAndController/
+[4.7]: Ch4/07.SynchronizationAndDebouncing/

@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Nov  4 13:46:05 2025
+[*]
+[dumpfile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/07.SynchronizationAndDebouncing/test/SinglePulser.vcd"
+[dumpfile_mtime] "Tue Nov  4 13:45:06 2025"
+[dumpfile_size] 787
+[savefile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/07.SynchronizationAndDebouncing/test/wf.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-3.521299 55 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] t_SinglePulser.
+[sst_width] 278
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@28
+t_SinglePulser.uut.clk
+@200
+-
+@28
+t_SinglePulser.uut.syncpress_i
+@200
+-
+@28
+t_SinglePulser.uut.SP_o
+@200
+-
+@28
+t_SinglePulser.uut.state
+@29
+t_SinglePulser.uut.next_state
+[pattern_trace] 1
+[pattern_trace] 0
