@@ -1,20 +1,23 @@
 [*]
 [*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
-[*] Tue Nov  4 10:14:31 2025
+[*] Wed Nov  5 09:50:07 2025
 [*]
 [dumpfile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/06.ScoreboardAndController/test/Scoreboard.vcd"
-[dumpfile_mtime] "Tue Nov  4 10:10:52 2025"
-[dumpfile_size] 2638
+[dumpfile_mtime] "Wed Nov  5 09:40:17 2025"
+[dumpfile_size] 2359
 [savefile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/06.ScoreboardAndController/test/uut.gtkw"
-[timestart] 0
+[timestart] 2
 [size] 1920 1001
 [pos] -1 -1
-*-5.146540 155 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+*-5.146540 115 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] t_Scoreboard.
+[treeopen] t_Scoreboard.uut.
 [sst_width] 278
 [signals_width] 225
 [sst_expanded] 1
-[sst_vpaned_height] 283
+[sst_vpaned_height] 267
+@200
+-uut
 @28
 t_Scoreboard.uut.clk
 t_Scoreboard.uut.rst
@@ -28,9 +31,7 @@ t_Scoreboard.uut.erase_i
 -
 @28
 t_Scoreboard.uut.dec
-@29
 t_Scoreboard.uut.inc
-@28
 t_Scoreboard.uut.erase
 @200
 -
@@ -42,5 +43,58 @@ t_Scoreboard.uut.units[3:0]
 @28
 t_Scoreboard.uut.tens_7seg_o[7:1]
 t_Scoreboard.uut.units_7seg_o[7:1]
+@200
+-
+-u1
+@28
+t_Scoreboard.uut.u1.clk
+t_Scoreboard.uut.u1.dec_i
+t_Scoreboard.uut.u1.inc_i
+t_Scoreboard.uut.u1.erase_i
+@200
+-
+@22
+t_Scoreboard.uut.u1.tens[3:0]
+t_Scoreboard.uut.u1.units[3:0]
+@200
+-
+@c00022
+t_Scoreboard.uut.u1.tens_o[3:0]
+@28
+(0)t_Scoreboard.uut.u1.tens_o[3:0]
+(1)t_Scoreboard.uut.u1.tens_o[3:0]
+(2)t_Scoreboard.uut.u1.tens_o[3:0]
+(3)t_Scoreboard.uut.u1.tens_o[3:0]
+@1401200
+-group_end
+@22
+t_Scoreboard.uut.u1.units_o[3:0]
+@200
+-
+-u4
+@28
+t_Scoreboard.uut.u4.rst
+t_Scoreboard.uut.u4.clk
+@200
+-
+@28
+t_Scoreboard.uut.u4.dec_i
+t_Scoreboard.uut.u4.inc_i
+t_Scoreboard.uut.u4.erase_i
+@200
+-
+@28
+t_Scoreboard.uut.u4.erasecnt[2:0]
+@201
+-
+@28
+t_Scoreboard.uut.u4.dec_o
+t_Scoreboard.uut.u4.inc_o
+t_Scoreboard.uut.u4.erase_o
+@200
+-
+@28
+t_Scoreboard.uut.u4.state
+t_Scoreboard.uut.u4.next_state
 [pattern_trace] 1
 [pattern_trace] 0

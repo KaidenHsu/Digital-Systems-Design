@@ -33,7 +33,7 @@ module t_SinglePulser;
         syncpress = 0;
         @(posedge clk)
         syncpress = 1;
-        repeat(2) @(posedge clk);
+        repeat(4) @(posedge clk);
 
         syncpress = 0;
         #10 $finish;
