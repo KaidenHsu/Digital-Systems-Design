@@ -81,11 +81,15 @@
 [4.8]: Ch4/08.ShiftAddMultiplier/
 
 ## Ch5. State Machine Charts and Microprogramming
-1. State Machine Charts (SM Charts)
-2. Derivation of SM Charts
+0. [Introduction][5.0]
+1. [State Machine Charts (SM Charts)][5.1]
+2. [Derivation of SM Charts][5.2]
     - Binary Multiplier Controller
     - Dice-Game
 3. Realization of SM Charts (Hardwiring)
 4. Implementation of Dice Game (Hardwiring)
 5. Microprogramming
 6. Linked State Machines
+
+[5.0]: Ch5/5.00Introduction.pdf
+[5.1]: Ch5/5.01StateMachineCharts.pdf

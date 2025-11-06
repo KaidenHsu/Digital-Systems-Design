@@ -1,0 +1,118 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Nov  6 07:17:17 2025
+[*]
+[dumpfile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/08.ShiftAddMultiplier/test/ShiftAddMultiplier.vcd"
+[dumpfile_mtime] "Thu Nov  6 05:05:18 2025"
+[dumpfile_size] 2901
+[savefile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch4/08.ShiftAddMultiplier/test/wf.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-14.185970 54330 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] t_ShiftAddMultiplier.
+[treeopen] t_ShiftAddMultiplier.uut.
+[treeopen] t_ShiftAddMultiplier.uut.u1.
+[sst_width] 278
+[signals_width] 221
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@200
+-uut
+@28
+t_ShiftAddMultiplier.uut.clk
+t_ShiftAddMultiplier.uut.rst_n
+t_ShiftAddMultiplier.uut.st
+@200
+-
+@24
+t_ShiftAddMultiplier.uut.mcand_i[3:0]
+t_ShiftAddMultiplier.uut.mplier_i[3:0]
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.M
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.load
+t_ShiftAddMultiplier.uut.sh
+t_ShiftAddMultiplier.uut.ad
+@200
+-
+@24
+t_ShiftAddMultiplier.uut.product_o[7:0]
+@28
+t_ShiftAddMultiplier.uut.done
+@200
+-controller
+@28
+t_ShiftAddMultiplier.uut.u1.clk
+t_ShiftAddMultiplier.uut.u1.rst_n
+t_ShiftAddMultiplier.uut.u1.st
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u1.M_i
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u1.K
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u1.load_o
+t_ShiftAddMultiplier.uut.u1.ad_o
+t_ShiftAddMultiplier.uut.u1.sh_o
+t_ShiftAddMultiplier.uut.u1.done
+@200
+-
+@24
+t_ShiftAddMultiplier.uut.u1.state[1:0]
+t_ShiftAddMultiplier.uut.u1.next_state[1:0]
+@200
+-counter
+@28
+t_ShiftAddMultiplier.uut.u1.u1.clk
+t_ShiftAddMultiplier.uut.u1.u1.rst_n
+t_ShiftAddMultiplier.uut.u1.u1.st
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u1.u1.load_i
+t_ShiftAddMultiplier.uut.u1.u1.sh_i
+@200
+-
+@24
+t_ShiftAddMultiplier.uut.u1.u1.Q[2:0]
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u1.u1.K_o
+@200
+-datapath
+@28
+t_ShiftAddMultiplier.uut.u3.clk
+t_ShiftAddMultiplier.uut.u3.rst_n
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u3.mcand_i[3:0]
+t_ShiftAddMultiplier.uut.u3.mplier_i[3:0]
+@29
+t_ShiftAddMultiplier.uut.u3.load_i
+@28
+t_ShiftAddMultiplier.uut.u3.ad_i
+t_ShiftAddMultiplier.uut.u3.sh_i
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u3.acc[8:0]
+@200
+-
+@28
+t_ShiftAddMultiplier.uut.u3.M_o
+@24
+t_ShiftAddMultiplier.uut.u3.product_o[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

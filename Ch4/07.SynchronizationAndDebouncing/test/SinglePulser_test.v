@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module t_SinglePulser;
     reg syncpress;
     reg clk, rst;

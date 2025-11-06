@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module t_CLA32;
     reg [32-1 : 0] a, b;
     wire [33-1 : 0] s;

@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module t_Scoreboard;
     task delay (
         input [10:0] cycles

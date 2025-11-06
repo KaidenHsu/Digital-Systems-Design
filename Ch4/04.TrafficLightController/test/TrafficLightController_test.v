@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module t_TrafficLightController;
     reg Sa, Sb;
     reg clk, rst_n;

@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module t_BCDAdder;
     reg [8-1 : 0] a, b;
     wire [9-1 : 0] ans;
