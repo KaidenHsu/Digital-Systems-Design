@@ -83,7 +83,7 @@
 ## Ch5. State Machine Charts and Microprogramming
 0. [Introduction][5.0]
 1. [State Machine Charts (SM Charts)][5.1]
-2. [Derivation of SM Charts][5.2]
+2. Derivation of SM Charts
     - Binary Multiplier Controller
     - Dice-Game
 3. Realization of SM Charts (Hardwiring)
