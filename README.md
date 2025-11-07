@@ -84,8 +84,8 @@
 0. [Introduction][5.0]
 1. [State Machine Charts (SM Charts)][5.1]
 2. Derivation of SM Charts
-    - Binary Multiplier Controller
-    - Dice-Game
+    - [Binary Multiplier Controller][5.2.1]
+    - [Dice-Game][5.2.2]
 3. Realization of SM Charts (Hardwiring)
 4. Implementation of Dice Game (Hardwiring)
 5. Microprogramming
@@ -93,3 +93,5 @@
 
 [5.0]: Ch5/5.00Introduction.pdf
 [5.1]: Ch5/5.01StateMachineCharts.pdf
+[5.2.1]: Ch5/5.02/BinaryMultiplierController/
+[5.2.2]: Ch5/5.02/DiceGame/

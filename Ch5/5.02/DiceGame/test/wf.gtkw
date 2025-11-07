@@ -1,0 +1,100 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Nov  7 12:16:05 2025
+[*]
+[dumpfile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch5/5.02/DiceGame/test/DiceGame.vcd"
+[dumpfile_mtime] "Fri Nov  7 11:13:08 2025"
+[dumpfile_size] 4064
+[savefile] "/home/kaiden/Documents/repos/DigitalSystemsDesign/Ch5/5.02/DiceGame/test/wf.gtkw"
+[timestart] 109
+[size] 1920 1001
+[pos] -1 -1
+*-4.104728 180 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Tester.
+[sst_width] 278
+[signals_width] 175
+[sst_expanded] 1
+[sst_vpaned_height] 280
+@200
+-tester
+@28
+Tester.clk
+Tester.rst_n
+@200
+-
+@28
+Tester.Rb
+Tester.Reset
+Tester.roll
+@200
+-
+@24
+Tester.sum[3:0]
+@28
+Tester.lose
+Tester.win
+Tester.done
+@200
+-DiceGame
+@28
+Tester.uut1.clk
+Tester.uut1.rst_n
+@200
+-
+@28
+Tester.uut1.Rb_i
+Tester.uut1.Reset_i
+@24
+Tester.uut1.sum_i[3:0]
+@200
+-
+@28
+Tester.uut1.D7
+Tester.uut1.D711
+Tester.uut1.D2312
+Tester.uut1.Sp
+@22
+Tester.uut1.point[3:0]
+@200
+-
+@28
+Tester.uut1.roll_o
+Tester.uut1.lose_o
+Tester.uut1.win_o
+@200
+-
+@24
+Tester.uut1.state[2:0]
+Tester.uut1.next_state[2:0]
+@200
+-GameTest
+@28
+Tester.uut2.clk
+Tester.uut2.rst_n
+@200
+-
+@28
+Tester.uut2.win_i
+Tester.uut2.lose_i
+Tester.uut2.roll_i
+@200
+-
+@24
+Tester.uut2.sum_o[3:0]
+@25
+Tester.uut2.i[3:0]
+@28
+Tester.uut2.Trig1
+@200
+-
+@28
+Tester.uut2.Rb_o
+Tester.uut2.Reset_o
+Tester.uut2.done
+@200
+-
+@24
+Tester.uut2.Tstate[1:0]
+Tester.uut2.Tnext[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
