@@ -100,3 +100,9 @@
 [5.4]: Ch5/5.04ImplementationOfDiceGame.pdf
 [5.5]: Ch5/5.05Microprogramming.pdf
 [5.6]: Ch5/5.06LinkedStateMachines.pdf
+
+## Ch7. Floating-point Arithmetic
+1. Representation of Floating-point Numbers
+2. Floating-point Multiplication
+3. Floating-point Addition
+4. Other Floating-point Operations: Subtraction and Division
