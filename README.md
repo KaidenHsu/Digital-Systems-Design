@@ -102,7 +102,9 @@
 [5.6]: Ch5/5.06LinkedStateMachines.pdf
 
 ## Ch7. Floating-point Arithmetic
-1. Representation of Floating-point Numbers
+1. [Representation of Floating-point Numbers][7.1]
 2. Floating-point Multiplication
 3. Floating-point Addition
 4. Other Floating-point Operations: Subtraction and Division
+
+[7.1]: Ch7/7.01RepresentationOfFLPNumbers.pdf
