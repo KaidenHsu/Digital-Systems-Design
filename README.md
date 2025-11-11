@@ -1,6 +1,7 @@
 # Digital Systems Design 數位系統設計
 
 ## Ch1. Review of Logic Design Fundamentals
+
 1. Combinational Logic
 2. Boolean Algebra and Algebraic Simplification
 3. K-map
@@ -18,6 +19,7 @@
 [1.10]: Ch1/1.10SeqCktTiming.pdf
 
 ## Ch2. Introduction to Verilog
+
 1. Computer-Aided Designs (CAD)
 2. Hardware Description Languages (HDLs)
 3. Verilog Description of Combinational Circuits
@@ -27,7 +29,7 @@
 7. Modeling FFs Using Always Blocks
 8. Always Blocks Using Event Control Statements
 9. [Delays in Verilog][2.9]
-10. Compilation, Simulation, and Synthesis of Verilog Code
+10. [Compilation, Simulation, and Synthesis of Verilog Code][2.10]
 11. Verilog Datatypes and Operators
 12. Simple Synthesis Examples
 13. Verilog Models for Mulitiplexers
@@ -40,9 +42,11 @@
 20. [A Few Things to Remember][2.20]
 
 [2.9]: Ch2/2.09Delays.pdf
+[2.10]: Ch2/2.10CompilationSimulationAndSynthesis.pdf
 [2.20]: Ch2/2.20VerilogTips.pdf
 
 ## Ch3. Introduction to Programmable Logic Devices
+
 1. [Brief Overview of Programmable Logic Devices (PLDs)][3.1]
     - Read-only memories (ROMs)
     - Programmable Logic Arrays (PLAs)
@@ -58,6 +62,7 @@
 [3.4]: Ch3/3.04FPGAs.pdf
 
 ## Ch4. Design Examples
+
 1. [BCD to 7-Segment Display Decoder (comb)][4.1]
 2. [BCD Adder (comb)][4.2]
 3. [32-Bit Adders (comb, seq)][4.3]
@@ -81,6 +86,7 @@
 [4.8]: Ch4/08.ShiftAddMultiplier/
 
 ## Ch5. State Machine Charts and Microprogramming
+
 0. [Introduction][5.0]
 1. [State Machine Charts (SM Charts)][5.1]
 2. [Derivation of SM Charts][5.2]
@@ -102,6 +108,7 @@
 [5.6]: Ch5/5.06LinkedStateMachines.pdf
 
 ## Ch7. Floating-point Arithmetic
+
 1. [Representation of Floating-point Numbers][7.1]
 2. Floating-point Multiplication
 3. Floating-point Addition
