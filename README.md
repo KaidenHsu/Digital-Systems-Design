@@ -71,8 +71,8 @@
 6. [Scoreboard and Controller (seq)][4.6]
 7. [Synchronization and Debouncing (seq)][4.7]
 8. [Shift-and-Add Multiplier (seq)][4.8]
-9. Array Multiplier (comb)
-10. Signed Integer/Fraction Multiplier (seq)
+9. [Array Multiplier (comb)][4.9]
+10. [Signed Integer/Fraction Multiplier (seq)][4.10]
 11. Keypad Scanner (seq)
 12. Binary Dividers (seq)
 
@@ -84,6 +84,8 @@
 [4.6]: Ch4/06.ScoreboardAndController/
 [4.7]: Ch4/07.SynchronizationAndDebouncing/
 [4.8]: Ch4/08.ShiftAddMultiplier/
+[4.9]: Ch4/09.ArrayMultiplier/
+[4.10]: Ch4/10.SignedIntegerFractionMultiplier/
 
 ## Ch5. State Machine Charts and Microprogramming
 
@@ -107,11 +109,46 @@
 [5.5]: Ch5/5.05Microprogramming.pdf
 [5.6]: Ch5/5.06LinkedStateMachines.pdf
 
+## Ch6. Designing with FPGAs
+
+1. Implementing Functions with FPGAs
+2. Implementing Functions using Shannon's Decomposition
+3. Carry Chains in FPGAs
+4. Cascade Chains in FPGAs
+5. Examples of Logic Blocks in Commercial FPGAs
+6. Dedicated Memory in FPGAs
+7. Dedicated Multipliers in FPGAs
+8. Cost of Programmability
+9. FPGAs and One-hot State Assignment
+10. FPGA Capacity: Maximum Gates vs Usable Gates
+11. Design Translation (Synthesis)
+12. Mapping, Placement, and Routing
+
 ## Ch7. Floating-point Arithmetic
 
 1. [Representation of Floating-point Numbers][7.1]
-2. Floating-point Multiplication
+2. [Floating-point Multiplication][7.2]
+    - [Floating-point Multiplier][7.2.1]
 3. Floating-point Addition
 4. Other Floating-point Operations: Subtraction and Division
 
 [7.1]: Ch7/7.01RepresentationOfFLPNumbers.pdf
+[7.2]: Ch7/7.02
+[7.2.1]: 
+
+# Ch8. Additional Topics in Verilog
+
+1. Verilog Functions
+2. Verilog Tasks
+3. Multivalued Logic and Signal Resolution
+4. Built-in Primitives
+5. User-defined Primitives
+6. SRAM Model
+7. Model for SRAM Read/Write System
+8. Rise and Fall Delays of Gates
+9. Named Association
+10. Generate Statements
+11. System Functions
+12. Compiler Directives
+13. File I/O Functions
+14. Timing Checks
