@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+
+Time: 1060 ns Started: 50 ns Scope: /tb_RAM6116System File: C:/Users/ryanh/fpga/digital-system-design/SRAM/SRAM.srcs/sim_1/new/tb_RAM6116System.sv Line:74
+Error: Assertion FAILED: `done` did not assert within 100 cycles after `start` pulse
+Time: 1060 ns  Iteration: 0  Process: /tb_RAM6116System//tb_RAM6116System  Scope: tb_RAM6116System  File: C:/Users/ryanh/fpga/digital-system-design/SRAM/SRAM.srcs/sim_1/new/tb_RAM6116System.sv Line: 75
+$finish called at time : 1310 ns : File "C:/Users/ryanh/fpga/digital-system-design/SRAM/SRAM.srcs/sim_1/new/tb_RAM6116System.sv" Line 63
