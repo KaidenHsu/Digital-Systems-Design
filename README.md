@@ -111,7 +111,7 @@
 
 ## Ch6. Designing with FPGAs
 
-1. Implementing Functions with FPGAs
+1. [Implementing Functions with FPGAs][6.1]
 2. Implementing Functions using Shannon's Decomposition
 3. Carry Chains in FPGAs
 4. Cascade Chains in FPGAs
@@ -124,25 +124,29 @@
 11. Design Translation (Synthesis)
 12. Mapping, Placement, and Routing
 
+[6.1]: Ch6/6.01ImplementingFunctionsInFPGAs.pdf
+
 ## Ch7. Floating-point Arithmetic
 
 1. [Representation of Floating-point Numbers][7.1]
-2. Floating-point Multiplication
-    - Floating-point Multiplier
+2. [Floating-point Multiplication][7.2]
+    - [Floating-point Multiplier][7.2.1]
 3. Floating-point Addition
 4. Other Floating-point Operations: Subtraction and Division
 
 [7.1]: Ch7/7.01RepresentationOfFLPNumbers.pdf
+[7.2]: Ch7/7.02FLPMultiplication.pdf
+[7.2.1]: Ch7/7.02.1FLPMultplier.pdf
 
 ## Ch8. Additional Topics in Verilog
 
 1. Verilog Functions
 2. Verilog Tasks
-3. Multivalued Logic and Signal Resolution
-4. Built-in Primitives
-5. User-defined Primitives
-6. SRAM Model
-7. Model for SRAM Read/Write System
+3. [Multivalued Logic and Signal Resolution][8.3]
+4. [Built-in Primitives][8.4]
+5. [User-defined Primitives][8.5]
+6. [SRAM Model][8.6]
+7. [Model for SRAM Read/Write System][8.7]
 8. Rise and Fall Delays of Gates
 9. Named Association
 10. Generate Statements
@@ -150,3 +154,9 @@
 12. Compiler Directives
 13. File I/O Functions
 14. Timing Checks
+
+[8.3]: Ch8/8.03MultivaluedLogicAndSignalResolution.pdf
+[8.4]: Ch8/8.04BuiltinPrimitives.pdf
+[8.5]: Ch8/8.05UserDefinedPrimitives.pdf
+[8.6]: Ch8/8.06SRAMModel/
+[8.7]: Ch8/8.07ModelForSRAMRWSystem/
