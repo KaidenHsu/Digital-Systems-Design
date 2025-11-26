@@ -73,6 +73,8 @@
 8. [Shift-and-Add Multiplier (seq)][4.8]
 9. [Array Multiplier (comb)][4.9]
 10. [Signed Integer/Fraction Multiplier (seq)][4.10]
+    - [Faster Multiplier][4.10.1]
+    - [Booth's Multiplier][4.10.2]
 11. Keypad Scanner (seq)
 12. Binary Dividers (seq)
 
@@ -85,7 +87,9 @@
 [4.7]: Ch4/07.SynchronizationAndDebouncing/
 [4.8]: Ch4/08.ShiftAddMultiplier/
 [4.9]: Ch4/09.ArrayMultiplier/
-[4.10]: Ch4/10.SignedIntegerFractionMultiplier/
+[4.10]: Ch4/10.SignedIntegerFractionMultiplier/4.10SignedIntegerFractionMultiplier.pdf
+[4.10.1]: Ch4/10.SignedIntegerFractionMultiplier/FasterMultiplier/
+[4.10.2]: Ch4/10.SignedIntegerFractionMultiplier/BoothsMultiplier/
 
 ## Ch5. State Machine Charts and Microprogramming
 
