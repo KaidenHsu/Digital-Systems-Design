@@ -1,0 +1,27 @@
+Time resolution is 1 ps
+[               75000] test case           0:           2
+[              185000] test case           1:           5
+[              295000] test case           2:           8
+[              405000] test case           3:           0
+[              515000] test case           4:           3
+[              635000] test case           5:           6
+[              755000] test case           6:           9
+[              875000] test case           7:          11
+[              995000] test case           8:           1
+[             1095000] test case           9:           4
+[             1195000] test case          10:           7
+[             1295000] test case          11:          10
+[             1395000] test case          12:           1
+[             1495000] test case          13:           2
+[             1605000] test case          14:           3
+[             1725000] test case          15:           4
+[             1825000] test case          16:           5
+[             1935000] test case          17:           6
+[             2055000] test case          18:           7
+[             2155000] test case          19:           8
+[             2265000] test case          20:           9
+[             2385000] test case          21:          10
+[             2485000] test case          22:          11
+[             2605000] test case          23:           0
+All test cases passed!
+$finish called at time : 2720 ns : File "C:/Users/ryanh/fpga/digital-system-design/keypad_scanner/keypad_scanner.srcs/sim_1/new/tb_keypad_scanner.sv" Line 119

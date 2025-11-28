@@ -75,7 +75,7 @@
 10. [Signed Integer/Fraction Multiplier (seq)][4.10]
     - [Faster Multiplier][4.10.1]
     - [Booth's Multiplier][4.10.2]
-11. Keypad Scanner (seq)
+11. [Keypad Scanner (seq)][4.11]
 12. Binary Dividers (seq)
 
 [4.1]: Ch4/01.BCDTo7Seg/
@@ -90,6 +90,7 @@
 [4.10]: Ch4/10.SignedIntegerFractionMultiplier/4.10SignedIntegerFractionMultiplier.pdf
 [4.10.1]: Ch4/10.SignedIntegerFractionMultiplier/FasterMultiplier/
 [4.10.2]: Ch4/10.SignedIntegerFractionMultiplier/BoothsMultiplier/
+[4.11]: Ch4/11.KeypadScanner/
 
 ## Ch5. State Machine Charts and Microprogramming
 

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_keypad_scanner_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_keypad_scanner" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="197.280 ns"></ZoomEndTime>
+      <Cursor1Time time="55.633 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="147"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_keypad_scanner/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+      <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/KN" type="array">
+      <obj_property name="ElementShortName">KN[31:0]</obj_property>
+      <obj_property name="ObjectShortName">KN[31:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/R" type="array">
+      <obj_property name="ElementShortName">R[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/C" type="array">
+      <obj_property name="ElementShortName">C[2:0]</obj_property>
+      <obj_property name="ObjectShortName">C[2:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/N" type="array">
+      <obj_property name="ElementShortName">N[3:0]</obj_property>
+      <obj_property name="ObjectShortName">N[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_keypad_scanner/V" type="logic">
+      <obj_property name="ElementShortName">V</obj_property>
+      <obj_property name="ObjectShortName">V</obj_property>
+   </wvobject>
+   <wvobject fp_name="group28" type="group">
+      <obj_property name="label">scanner</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u1/R_i" type="array">
+         <obj_property name="ElementShortName">R_i[3:0]</obj_property>
+         <obj_property name="ObjectShortName">R_i[3:0]</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u1/C_o" type="array">
+         <obj_property name="ElementShortName">C_o[2:0]</obj_property>
+         <obj_property name="ObjectShortName">C_o[2:0]</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u1/N_o" type="array">
+         <obj_property name="ElementShortName">N_o[3:0]</obj_property>
+         <obj_property name="ObjectShortName">N_o[3:0]</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u1/V_o" type="logic">
+         <obj_property name="ElementShortName">V_o</obj_property>
+         <obj_property name="ObjectShortName">V_o</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u1/state" type="array">
+         <obj_property name="ElementShortName">state[2:0]</obj_property>
+         <obj_property name="ObjectShortName">state[2:0]</obj_property>
+         <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u1/n_state" type="array">
+         <obj_property name="ElementShortName">n_state[2:0]</obj_property>
+         <obj_property name="ObjectShortName">n_state[2:0]</obj_property>
+         <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group38" type="group">
+      <obj_property name="label">debouncer</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u2/K_i" type="logic">
+         <obj_property name="ElementShortName">K_i</obj_property>
+         <obj_property name="ObjectShortName">K_i</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u2/QA" type="logic">
+         <obj_property name="ElementShortName">QA</obj_property>
+         <obj_property name="ObjectShortName">QA</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u2/QB" type="logic">
+         <obj_property name="ElementShortName">QB</obj_property>
+         <obj_property name="ObjectShortName">QB</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u2/Kd_o" type="logic">
+         <obj_property name="ElementShortName">Kd_o</obj_property>
+         <obj_property name="ObjectShortName">Kd_o</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group51" type="group">
+      <obj_property name="label">decoder</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u3/R_i" type="array">
+         <obj_property name="ElementShortName">R_i[3:0]</obj_property>
+         <obj_property name="ObjectShortName">R_i[3:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u3/C_i" type="array">
+         <obj_property name="ElementShortName">C_i[2:0]</obj_property>
+         <obj_property name="ObjectShortName">C_i[2:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_keypad_scanner/uut/u3/N_o" type="array">
+         <obj_property name="ElementShortName">N_o[3:0]</obj_property>
+         <obj_property name="ObjectShortName">N_o[3:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>
