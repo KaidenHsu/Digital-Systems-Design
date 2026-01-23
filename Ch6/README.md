@@ -13,4 +13,4 @@
 11. Design Translation (Synthesis)
 12. Mapping, Placement, and Routing
 
-[6.1]: Ch6/6.01ImplementingFunctionsInFPGAs.pdf
+[6.1]: 6.01ImplementingFunctionsInFPGAs.pdf

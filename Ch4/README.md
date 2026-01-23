@@ -15,16 +15,16 @@
 11. [Keypad Scanner (seq)][4.11]
 12. Binary Dividers (seq)
 
-[4.1]: Ch4/01.BCDTo7Seg/
-[4.2]: Ch4/02.BCDAdder/
-[4.3]: Ch4/03.32BitCLA/
-[4.4]: Ch4/04.TrafficLightController/
-[4.5]: Ch4/05.StateGraphsForControlCircuits/
-[4.6]: Ch4/06.ScoreboardAndController/
-[4.7]: Ch4/07.SynchronizationAndDebouncing/
-[4.8]: Ch4/08.ShiftAddMultiplier/
-[4.9]: Ch4/09.ArrayMultiplier/
-[4.10]: Ch4/10.SignedIntegerFractionMultiplier/4.10SignedIntegerFractionMultiplier.pdf
-[4.10.1]: Ch4/10.SignedIntegerFractionMultiplier/FasterMultiplier/
-[4.10.2]: Ch4/10.SignedIntegerFractionMultiplier/BoothsMultiplier/
-[4.11]: Ch4/11.KeypadScanner/
+[4.1]: 01.BCDTo7Seg/
+[4.2]: 02.BCDAdder/
+[4.3]: 03.32BitCLA/
+[4.4]: 04.TrafficLightController/
+[4.5]: 05.StateGraphsForControlCircuits/
+[4.6]: 06.ScoreboardAndController/
+[4.7]: 07.SynchronizationAndDebouncing/
+[4.8]: 08.ShiftAddMultiplier/
+[4.9]: 09.ArrayMultiplier/
+[4.10]: 10.SignedIntegerFractionMultiplier/4.10SignedIntegerFractionMultiplier.pdf
+[4.10.1]: 10.SignedIntegerFractionMultiplier/FasterMultiplier/
+[4.10.2]: 10.SignedIntegerFractionMultiplier/BoothsMultiplier/
+[4.11]: 11.KeypadScanner/

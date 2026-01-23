@@ -12,6 +12,6 @@
 9. Equivalent States and Reduction of State Tables
 10. [Sequential Circuit Timing][1.10]
 
-[1.3]: Ch1/1.03K-MapsAndMEVs.pdf
-[1.5]: Ch1/1.05HazardsInCombCkts.pdf
-[1.10]: Ch1/1.10SeqCktTiming.pdf
+[1.3]: 1.03K-MapsAndMEVs.pdf
+[1.5]: 1.05HazardsInCombCkts.pdf
+[1.10]: 1.10SeqCktTiming.pdf

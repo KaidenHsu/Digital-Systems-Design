@@ -9,7 +9,7 @@
 3. [Complex Programmable Logic Devices (CPLDs)][3.3]
 4. [Field-Programmable Gate Arrays (FPGAs)][3.4]
 
-[3.1]: Ch3/3.01PLDsOverview.pdf
-[3.2]: Ch3/3.02SPLDs.pdf
-[3.3]: Ch3/3.03CPLDs.pdf
-[3.4]: Ch3/3.04FPGAs.pdf
+[3.1]: 3.01PLDsOverview.pdf
+[3.2]: 3.02SPLDs.pdf
+[3.3]: 3.03CPLDs.pdf
+[3.4]: 3.04FPGAs.pdf

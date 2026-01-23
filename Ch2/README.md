@@ -21,6 +21,6 @@
 19. Testing a Verilog Model (Testbench)
 20. [A Few Things to Remember][2.20]
 
-[2.9]: Ch2/2.09Delays.pdf
-[2.10]: Ch2/2.10CompilationSimulationAndSynthesis.pdf
-[2.20]: Ch2/2.20VerilogTips.pdf
+[2.9]: 2.09Delays.pdf
+[2.10]: 2.10CompilationSimulationAndSynthesis.pdf
+[2.20]: 2.20VerilogTips.pdf

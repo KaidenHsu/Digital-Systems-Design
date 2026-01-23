@@ -10,12 +10,12 @@
 5. [Microprogramming][5.5]
 6. [Linked State Machines][5.6]
 
-[5.0]: Ch5/5.00Introduction.pdf
-[5.1]: Ch5/5.01StateMachineCharts.pdf
-[5.2]: Ch5/5.2/5.02DerivationOfSMCharts.pdf
-[5.2.1]: Ch5/5.2/BinaryMultiplierController/
-[5.2.2]: Ch5/5.2/DiceGame/
-[5.3]: Ch5/5.03RealizationOfSMChart.pdf
-[5.4]: Ch5/5.04ImplementationOfDiceGame.pdf
-[5.5]: Ch5/5.05Microprogramming.pdf
-[5.6]: Ch5/5.06LinkedStateMachines.pdf
+[5.0]: 5.00Introduction.pdf
+[5.1]: 5.01StateMachineCharts.pdf
+[5.2]: 5.2/5.02DerivationOfSMCharts.pdf
+[5.2.1]: 5.2/BinaryMultiplierController/
+[5.2.2]: 5.2/DiceGame/
+[5.3]: 5.03RealizationOfSMChart.pdf
+[5.4]: 5.04ImplementationOfDiceGame.pdf
+[5.5]: 5.05Microprogramming.pdf
+[5.6]: 5.06LinkedStateMachines.pdf
