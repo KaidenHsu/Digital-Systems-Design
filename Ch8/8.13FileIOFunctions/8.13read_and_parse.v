@@ -12,9 +12,12 @@ module file_read;
         // guard statement
         if (file == `NULL) disable file_read;
 
+        // main loop
         while (!$feof(file)) begin
+            // read a formatted line
             ret = $fscanf(file, "%s %h %h\n", r_w, addr, data);
 
+            // display based on command
             case (r_w)
                 "rd": $display("READ mem[%h] => %h", addr, data);
                 "wr": $display("WRITE mem[%h] <= %h", addr, data);
