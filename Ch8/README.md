@@ -15,9 +15,9 @@
 13. [File I/O Functions][8.13]
 14. Timing Checks
 
-[8.3]: Ch8/8.03MultivaluedLogicAndSignalResolution.pdf
-[8.4]: Ch8/8.04BuiltinPrimitives.pdf
-[8.5]: Ch8/8.05UserDefinedPrimitives.pdf
-[8.6]: Ch8/8.06SRAMModel/
-[8.7]: Ch8/8.07ModelForSRAMRWSystem/
-[8.13]: Ch8/8.13FileIOFunctions/
+[8.3]: 8.03MultivaluedLogicAndSignalResolution.pdf
+[8.4]: 8.04BuiltinPrimitives.pdf
+[8.5]: 8.05UserDefinedPrimitives.pdf
+[8.6]: 8.06SRAMModel/
+[8.7]: 8.07ModelForSRAMRWSystem/
+[8.13]: 8.13FileIOFunctions/
