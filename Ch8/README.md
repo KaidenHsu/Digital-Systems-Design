@@ -13,7 +13,7 @@
 11. [System Functions][8.11]
 12. Compiler Directives
 13. [File I/O Functions][8.13]
-14. Timing Checks
+14. [Timing Checks][8.14]
 
 [8.3]: 8.03MultivaluedLogicAndSignalResolution.pdf
 [8.4]: 8.04BuiltinPrimitives.pdf
@@ -23,3 +23,4 @@
 [8.8]: 8.08RiseAndFallDelaysOfGates/
 [8.11]: 8.11SystemFunctions.md
 [8.13]: 8.13FileIOFunctions/
+[8.14]: 8.14TimingChecks.md
