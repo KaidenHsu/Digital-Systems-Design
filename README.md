@@ -34,3 +34,5 @@ Completing this course has rounded out my understanding of digital design and la
 [6]: Ch6/
 [7]: Ch7/
 [8]: Ch8/
+
+<p align="center"><img src="images/NYCU.jpg" alt="NYCU" width="960" /></p>
