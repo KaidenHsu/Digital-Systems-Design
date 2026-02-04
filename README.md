@@ -1,15 +1,17 @@
-# Digital Systems Design 數位系統設計
+# Digital Systems Design
 
-這是一門由陽明交通大學 (NYCU) 開設的，數位系統導論（Introduction to Digital Systems）的進階課程。課程內容兼顧理論與實務，其中第四與第七章共提供了 16 個 design example。課程從單純的數位系統理論，逐步培養學生正確的設計觀念。我這堂課使用 AMD Xilinx Zedboard FPGA 作為實作平台，從撰寫 RTL、在 Vivado 中進行模擬 (simulation) 與除錯 (debug, ILA)，到最後實際上板 (configuration)，完整走過一次 FPGA 設計流程，熟悉 FPGA 開發環境。
+[![zh-tw](https://img.shields.io/badge/lang-繁體中文-blue.svg)](README.zh-tw.md)
+
+This is an advanced course on the Introduction to Digital Systems offered by **National Yang Ming Chiao Tung University (NYCU)**. The course **balances theory with practical application**, featuring **16 design examples** across the 4th and 7th chapters. Moving beyond basic digital logic theory, the course develops professional design principles. I utilized the **AMD Xilinx Zedboard FPGA** as the implementation platform, navigating the entire FPGA design flow from writing RTL and performing simulation and debugging with ILA in Vivado, familiarizing myself with the entire FPGA design flow.
 <br>
 <br>
-理論部分，第一章作為複習章節，回顧數位系統導論（Introduction to Digital Systems）中的核心觀念，並進一步引入 hazard、timing 等在實際設計中關鍵的議題。第二章與第八章介紹 Verilog 語法，雖然此前已具備 Verilog 基礎，但我仍藉此機會檢視並修正自己的 coding style 是否良好，以避免合成出的硬體與想像中不同的狀況。第三章介紹 PLD (Programmable Logic Device) 的分類與發展，從 ROM、PAL、PLA、GLA、CPLD ，到本課程所使用的 FPGA 平台。第五章接著介紹了除了常見 FSM 外的其他設計方法，包括 state machine charts 與 microprogramming。章節最後介紹 linked state machine ，以利往後設計複雜系統的控制器。第六章則深入說明 FPGA 的內部運作原理，以及相關 EDA tool 的基本概念，讓我對 FPGA 在硬體層面是如何被實現，與其使用有了更具體的理解。
+Regarding the theoretical component, the 1st chapter serves as a review of core digital systems concepts while introducing critical real-world design issues such as hazards and timing. Chapters 2 and 8 cover Verilog syntax; despite having a prior foundation, I used this opportunity to refine my coding style to ensure the synthesized hardware accurately reflects the intended logic. Chapter 3 introduces the classification and evolution of Programmable Logic Devices, tracing the path from ROM, PAL, PLA, and CPLD to the FPGA platforms used today. Chapter 5 explores design methodologies beyond standard finite state machines, including state machine charts and microprogramming, concluding with linked state machines to facilitate the design of complex system controllers. Finally, chapter 6 provides an in-depth explanation of internal FPGA architecture and fundamental EDA tool concepts, offering a concrete understanding of how hardware is physically realized.
 <br>
 <br>
-其中第四章與第七章為實作章節。第四章由淺入深提供了 12 個 design example，介紹各種組合 (combinational) 電路與循序 (sequential) 電路的設計方式。第七章則結合當今 AI 世代的背景，介紹浮點數 (floating-point) 加減乘除等運算單元的硬體設計，讓我理解這些數值運算在硬體中實際是如何被實作的。
+The practical core of the course is found in chapters 4 and 7. Chapter 4 provides 12 design examples that progress from simple to complex, covering various combinational and sequential circuit design techniques. In the context of the current AI era, chapter 7 introduces the hardware design of floating-point arithmetic units for addition, subtraction, multiplication, and division, providing insight into how these numerical computations are actually implemented in hardware.
 <br>
 <br>
-上完這堂課後，我對數位設計的理解更加完整，也為日後進一步的硬體設計與系統開發打下了扎實基礎。在撰寫 RTL 時，我不再只是停留在語法，而是能聯想到實際合成 (synthesize) 後的硬體結構。同時，對於課程中涉及的多項數位設計理論，也都有了深刻的體會。
+Completing this course has rounded out my understanding of digital design and laid a robust foundation for future hardware design and system development. When writing RTL, I no longer view it as mere code but can visualize the actual synthesized hardware structures. Simultaneously, I have gained a profound realization of the various digital design theories covered throughout the course.
 
 ## Chapters
 
